@@ -15,5 +15,5 @@ end
 group :development do
   gem "shotgun"
   gem "tux"
-    gem 'sqlite3'
+  gem 'sqlite3'
 end
