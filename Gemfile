@@ -7,10 +7,10 @@ gem "sinatra-activerecord"
 
 
 
-group :production do
+#group :production do
   gem 'pg'
   gem 'rails_12factor'
-end
+#end
 
 group :development do
   gem "shotgun"
